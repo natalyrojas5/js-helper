@@ -1,1 +1,1 @@
-# Javascript Helpers
+# Functions Helpers
